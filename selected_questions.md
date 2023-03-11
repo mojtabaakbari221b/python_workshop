@@ -1,6 +1,4 @@
-links:
-
-### session 2
+## session 2
 
 **string formatting**
 
