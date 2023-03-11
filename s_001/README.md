@@ -5,6 +5,6 @@ We discussed the following in this meeting:
 * python vs other languages around world and I.R.Iran
 * installing python
 * running first code
-* two type of run running python code, console and .py files
+* two type of running python code, console and .py files
 * syntax
 * comments
