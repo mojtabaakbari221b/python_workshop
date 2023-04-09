@@ -1,11 +1,7 @@
-## session 2
-
 **string formatting**
 
 * https://quera.org/problemset/123798/
 * https://quera.org/problemset/110015/
-
-## session 3
 
 **operators**
 
@@ -17,8 +13,6 @@
 * https://quera.org/problemset/147635/
 * https://quera.org/problemset/129726/
 * https://quera.org/problemset/145008/
-
-## notes:
 
 **function**
 
