@@ -16,6 +16,7 @@
 
 **function**
 
+* https://quera.org/problemset/102250/
 * https://quera.org/problemset/76278/
 * https://quera.org/problemset/60134/
 * https://quera.org/problemset/33473/
@@ -25,6 +26,7 @@
 
 * https://quera.org/problemset/76277/
 * https://quera.org/problemset/33038/
+* https://quera.org/problemset/16396/
 
 **web scrapping**
 
