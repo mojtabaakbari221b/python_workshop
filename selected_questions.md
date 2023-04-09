@@ -8,7 +8,7 @@
 * https://quera.org/problemset/127289/
 * https://quera.org/problemset/87176/
 
-**conditions**
+**conditions & loops**
 
 * https://quera.org/problemset/147635/
 * https://quera.org/problemset/129726/
