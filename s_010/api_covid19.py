@@ -7,6 +7,8 @@ headers = {}
 
 response = requests.request("GET", url, headers=headers, data=payload)
 
+# print(response.json())
+
 # print(response.text)
 
 for country in response.json().get("Countries"):
